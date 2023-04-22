@@ -52,3 +52,5 @@ for (let i = 0; i < array.length; i++) {
 // tuple represent  known data
 type Drink = [string, boolean, number]; // not array
 const xc: Drink = ["cheesecake", true, 4];
+
+export {};
